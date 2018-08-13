@@ -1,6 +1,4 @@
 import {createStore} from "redux";
 
 
-const store = createStore(counterReducer){
-    
-}
+const store = createStore(counterReducer)
