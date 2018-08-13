@@ -11,5 +11,5 @@ export function decActionCreator(by=1){
     return{
         type: DEC,
         by
-    }
+    };
 }
